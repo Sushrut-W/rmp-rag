@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Emily Stone",
+            "subject": "Quantum Mechanics",
+            "stars": 5,
+            "review": "An excellent professor who makes complex topics understandable. Her lectures are engaging and clear."
+        },
+        {
+            "professor": "Dr. Michael Harris",
+            "subject": "Calculus II",
+            "stars": 3,
+            "review": "Knows the material well, but the lectures can be a bit dry. Office hours are helpful."
+        },
+        {
+            "professor": "Dr. Sarah Patel",
+            "subject": "Data Structures",
+            "stars": 4,
+            "review": "Great professor! Assignments are challenging but fair, and she explains concepts very well."
+        },
+        {
+            "professor": "Dr. Robert Jenkins",
+            "subject": "Operating Systems",
+            "stars": 2,
+            "review": "The lectures were hard to follow, and the exams were tough. Not very approachable."
+        },
+        {
+            "professor": "Dr. Laura Kim",
+            "subject": "Linear Algebra",
+            "stars": 5,
+            "review": "Amazing instructor! She really cares about her students and makes the material accessible."
+        },
+        {
+            "professor": "Dr. James Wong",
+            "subject": "Software Engineering",
+            "stars": 4,
+            "review": "A solid professor with a lot of industry experience. The group projects were very informative."
+        },
+        {
+            "professor": "Dr. Anna Martinez",
+            "subject": "Physics I",
+            "stars": 3,
+            "review": "Lectures were okay, but the labs were poorly organized. Needs improvement."
+        },
+        {
+            "professor": "Dr. David Brown",
+            "subject": "Discrete Mathematics",
+            "stars": 4,
+            "review": "Challenging course, but Dr. Brown's explanations were clear. Good use of examples."
+        },
+        {
+            "professor": "Dr. Rachel Lee",
+            "subject": "Artificial Intelligence",
+            "stars": 5,
+            "review": "Fantastic course! Dr. Lee is passionate about AI and it shows in her teaching."
+        },
+        {
+            "professor": "Dr. Mark Taylor",
+            "subject": "Economics 101",
+            "stars": 2,
+            "review": "The lectures are monotone, and the material is not engaging. Wouldn't recommend."
+        },
+        {
+            "professor": "Dr. Olivia Davis",
+            "subject": "Organic Chemistry",
+            "stars": 3,
+            "review": "A difficult course, but Dr. Davis tries her best to make it manageable. Prepare to study hard."
+        },
+        {
+            "professor": "Dr. John Smith",
+            "subject": "World History",
+            "stars": 5,
+            "review": "Dr. Smith is a captivating lecturer with deep knowledge. History comes alive in his class."
+        },
+        {
+            "professor": "Dr. Jennifer Clark",
+            "subject": "Introduction to Programming",
+            "stars": 4,
+            "review": "Good professor, especially for beginners. The coding assignments were helpful."
+        },
+        {
+            "professor": "Dr. Daniel Wilson",
+            "subject": "Electrical Circuits",
+            "stars": 3,
+            "review": "Dr. Wilson is knowledgeable, but his lectures can be a bit scattered. Labs were good."
+        },
+        {
+            "professor": "Dr. Jessica Nguyen",
+            "subject": "Environmental Science",
+            "stars": 5,
+            "review": "A wonderful professor who is passionate about the environment. Very inspiring."
+        },
+        {
+            "professor": "Dr. Thomas Baker",
+            "subject": "Microeconomics",
+            "stars": 2,
+            "review": "Not very engaging and the exams were tough. The textbook is essential."
+        },
+        {
+            "professor": "Dr. Maria Gonzalez",
+            "subject": "Sociology 101",
+            "stars": 4,
+            "review": "Dr. Gonzalez is a great lecturer, and the class discussions were always thought-provoking."
+        },
+        {
+            "professor": "Dr. Steven King",
+            "subject": "Human Anatomy",
+            "stars": 3,
+            "review": "Decent professor, but the course material is very dense. Labs are essential for understanding."
+        },
+        {
+            "professor": "Dr. Linda Robinson",
+            "subject": "Introduction to Psychology",
+            "stars": 5,
+            "review": "Excellent professor with a clear passion for psychology. Very engaging lectures."
+        },
+        {
+            "professor": "Dr. Andrew Moore",
+            "subject": "Advanced Algorithms",
+            "stars": 4,
+            "review": "Challenging but rewarding course. Dr. Moore's explanations are very thorough."
+        }
+    ]
+}  
